@@ -1,0 +1,12 @@
+td {
+    width: 150px;
+    height: 150px;
+}
+
+.filaA td:nth-child(odd) {
+    background-color: black;
+}
+
+.filaB td:nth-child(even) {
+    background-color: black;
+}
